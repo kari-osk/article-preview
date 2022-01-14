@@ -9,7 +9,7 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 ### Links
 
 - Solution URL: [GitHub repository](https://github.com/kari-osk/article-preview)
-- Live Site URL: [GitHub pages](https://your-live-site-url.com)
+- Live Site URL: [GitHub pages](https://kari-osk.github.io/article-preview/)
 
 ## My process
 
