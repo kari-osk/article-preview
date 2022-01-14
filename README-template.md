@@ -4,7 +4,7 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
